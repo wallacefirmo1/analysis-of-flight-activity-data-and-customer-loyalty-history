@@ -134,4 +134,4 @@ demo.launch(debug=True, share=False)
 
 ## 6.0. Conclusão
 
-Este projeto demonstrou minha capacidade de trabalhar com SQL, Pandas e Scikit-learn para analisar dados e implementar um modelo de Machine Learning. Estou ansioso para aplicar essas habilidades e aprender mais como Cientista de Dados Júnior.
+Este projeto demonstrou minha capacidade de trabalhar com SQL, Pandas e Scikit-learn para analisar dados e implementar um modelo de Machine Learning.
