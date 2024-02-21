@@ -135,3 +135,6 @@ demo.launch(debug=True, share=False)
 ## 6.0. Conclusão
 
 Este projeto demonstrou minha capacidade de trabalhar com SQL, Pandas e Scikit-learn para analisar dados e implementar um modelo de Machine Learning.
+
+## Wallace Firmo
+(22) 996147820
